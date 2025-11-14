@@ -1,4 +1,4 @@
-# nflseedR (development version)
+# nflseedR 2.0.2
 
 * Changed css styling of images in package documentation by CRAN request. (#61)
 
@@ -32,7 +32,7 @@ It is planned that `simulate_nfl()` will be deprecated in a future release so th
 * The `summary` method `summary.nflseedR_simulation()` now requires gt version v0.9.0 or higher to avoid warnings about deprecated arguments.
 * Fixed error in `simulate_nfl()` where it crashes because the "fake schedule" isn't a tibble. (#43)
 * The function `load_sharpe_games` has been deprecated. It was replaced a fairly long time ago by `nflreadr::load_schedules()`. (#47)
-* nflseedR now requires R 4.1 to allow the package to use R's native pipe `|>` operator. This follows the [Tidyverse R version support rules](https://www.tidyverse.org/blog/2019/04/r-version-support/). (#48)
+* nflseedR now requires R 4.1 to allow the package to use R's native pipe `|>` operator. This follows the [Tidyverse R version support rules](https://tidyverse.org/blog/2019/04/r-version-support/). (#48)
 
 # nflseedR 1.2.0
 

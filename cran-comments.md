@@ -1,6 +1,6 @@
 ## Release summary
 
-This a patch release fixing minor issues.
+This a patch release fixing an issue with images in Rd files, requested by CRAN.
 
 ## R CMD check results
 
