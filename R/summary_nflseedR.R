@@ -5,7 +5,7 @@
 #' @param object an object for which a summary is desired.
 #' @param ... additional arguments passed on to the methods (currently not used).
 #' @section Output of below example:
-#' \if{html}{\figure{summary_tbl.png}{options: width=75\%}}
+#' \if{html}{\figure{summary_tbl.png}{options: style="width: 75\%;"}}
 #' @examples
 #' \donttest{
 #' library(nflseedR)

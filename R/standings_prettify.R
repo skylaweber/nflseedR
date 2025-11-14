@@ -14,8 +14,8 @@
 #' @returns An object of class `gt_tbl`.
 #' @export
 #' @section Output of below examples:
-#' \if{html}{\figure{standings_tbl1.png}{options: width=75\%}}
-#' \if{html}{\figure{standings_tbl2.png}{options: width=75\%}}
+#' \if{html}{\figure{standings_tbl1.png}{options: style="width: 75\%;"}}
+#' \if{html}{\figure{standings_tbl2.png}{options: style="width: 75\%;"}}
 #' @examples
 #' \donttest{
 #' # Calculate standings
