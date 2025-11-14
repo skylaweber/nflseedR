@@ -22,5 +22,8 @@
 ## usethis namespace: end
 NULL
 
+# Re-Exports --------------------------------------------------------------
+
+#' @importFrom nflreadr load_schedules
 #' @export
 nflreadr::load_schedules

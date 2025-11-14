@@ -1,3 +1,7 @@
+# nflseedR (development version)
+
+* Changed css styling of images in package documentation by CRAN request. (#61)
+
 # nflseedR 2.0.1
 
 * `nflseedR_compute_results()` correctly adjusts Elo difference for postseason games. (#54)

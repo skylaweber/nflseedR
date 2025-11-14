@@ -17,7 +17,7 @@ nflseedR simulation summary data frame.
 }
 \section{Output of below example}{
 
-\if{html}{\figure{summary_tbl.png}{options: width=75\%}}
+\if{html}{\figure{summary_tbl.png}{options: style="width: 75\%;"}}
 }
 
 \examples{
