@@ -42,10 +42,9 @@ strip_nflverse_attributes <- function(df){
 
 release_bullets <- function() {
   c(
-    '`devtools::check_mac_release()`',
     '`rhub::rhub_check(platforms = nflseedR:::rhub_check_platforms())`',
     '`pkgdown::check_pkgdown()`',
-    '`usethis::use_tidy_thanks()`',
+    '`nflfastR:::nflverse_thanks()`',
     NULL
   )
 }
